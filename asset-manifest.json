@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-datatable/static/css/main.473892b7.css",
+    "main.js": "/react-datatable/static/js/main.c826cc67.js",
+    "static/js/787.0230134b.chunk.js": "/react-datatable/static/js/787.0230134b.chunk.js",
+    "index.html": "/react-datatable/index.html",
+    "main.473892b7.css.map": "/react-datatable/static/css/main.473892b7.css.map",
+    "main.c826cc67.js.map": "/react-datatable/static/js/main.c826cc67.js.map",
+    "787.0230134b.chunk.js.map": "/react-datatable/static/js/787.0230134b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.473892b7.css",
+    "static/js/main.c826cc67.js"
+  ]
+}
